@@ -1,0 +1,402 @@
+{
+    "American_Golden_Plover": {
+        "italian": "Piviere dorato americano",
+        "scientific": "Pluvialis dominica"
+    },
+    "American_Pipit": {
+        "italian": "Spioncello americano",
+        "scientific": "Anthus rubescens"
+    },
+    "Arctic_Tern": {
+        "italian": "Sterna artica",
+        "scientific": "Sterna paradisaea"
+    },
+    "Bairds_Sandpiper": {
+        "italian": "Piro pettobianco",
+        "scientific": "Calidris bairdii"
+    },
+    "Barn_Swallow": {
+        "italian": "Rondine comune",
+        "scientific": "Hirundo rustica"
+    },
+    "Black_Tern": {
+        "italian": "Sterna nera",
+        "scientific": "Chlidonias niger"
+    },
+    "Black_bellied_Plover": {
+        "italian": "Piviere panciabianca",
+        "scientific": "Pluvialis squatarola"
+    },
+    "Black_billed_Cuckoo": {
+        "italian": "Cuculo beccosottile",
+        "scientific": "Coccyzus erythropthalmus"
+    },
+    "Black_crowned_Night_Heron": {
+        "italian": "Nitticora",
+        "scientific": "Nycticorax nycticorax"
+    },
+    "Black_legged_Kittiwake": {
+        "italian": "Gabbiano tridattilo",
+        "scientific": "Rissa tridactyla"
+    },
+    "Bobolink": {
+        "italian": "Dolichonice americano",
+        "scientific": "Dolichonyx oryzivorus"
+    },
+    "Bohemian_Waxwing": {
+        "italian": "Beccofrusone boreale",
+        "scientific": "Bombycilla garrulus"
+    },
+    "Brant": {
+        "italian": "Oca collorosso",
+        "scientific": "Branta bernicla"
+    },
+    "Canada_Goose": {
+        "italian": "Oca canadese",
+        "scientific": "Branta canadensis"
+    },
+    "Caspian_Tern": {
+        "italian": "Sterna reale",
+        "scientific": "Hydroprogne caspia"
+    },
+    "Cattle_Egret": {
+        "italian": "Airone guardabuoi",
+        "scientific": "Bubulcus ibis"
+    },
+    "Common_Eider": {
+        "italian": "Edredone comune",
+        "scientific": "Somateria mollissima"
+    },
+    "Common_Goldeneye": {
+        "italian": "Moretta codona",
+        "scientific": "Bucephala clangula"
+    },
+    "Common_Loon": {
+        "italian": "Strolaga maggiore",
+        "scientific": "Gavia immer"
+    },
+    "Common_Merganser": {
+        "italian": "Smergo maggiore",
+        "scientific": "Mergus merganser"
+    },
+    "Common_Murre": {
+        "italian": "Uria comune",
+        "scientific": "Uria aalge"
+    },
+    "Common_Raven": {
+        "italian": "Corvo imperiale",
+        "scientific": "Corvus corax"
+    },
+    "Common_Redpoll": {
+        "italian": "Venturone artico",
+        "scientific": "Acanthis flammea"
+    },
+    "Common_Tern": {
+        "italian": "Sterna comune",
+        "scientific": "Sterna hirundo"
+    },
+    "Dunlin": {
+        "italian": "Piovanello pancianera",
+        "scientific": "Calidris alpina"
+    },
+    "Eared_Grebe": {
+        "italian": "Svasso orecchiuto",
+        "scientific": "Podiceps nigricollis"
+    },
+    "Eurasian_Collared_Dove": {
+        "italian": "Tortora dal collare",
+        "scientific": "Streptopelia decaocto"
+    },
+    "European_Starling": {
+        "italian": "Storno",
+        "scientific": "Sturnus vulgaris"
+    },
+    "Franklins_Gull": {
+        "italian": "Gabbiano di Franklin",
+        "scientific": "Leucophaeus pipixcan"
+    },
+    "Glaucous_Gull": {
+        "italian": "Gabbiano glauco",
+        "scientific": "Larus hyperboreus"
+    },
+    "Glossy_Ibis": {
+        "italian": "Ibis nero",
+        "scientific": "Plegadis falcinellus"
+    },
+    "Golden_Eagle": {
+        "italian": "Aquila reale",
+        "scientific": "Aquila chrysaetos"
+    },
+    "Great_Black_backed_Gull": {
+        "italian": "Gabbiano reale nordico",
+        "scientific": "Larus marinus"
+    },
+    "Great_Cormorant": {
+        "italian": "Cormorano",
+        "scientific": "Phalacrocorax carbo"
+    },
+    "Great_Egret": {
+        "italian": "Airone bianco maggiore",
+        "scientific": "Ardea alba"
+    },
+    "Greater_Scaup": {
+        "italian": "Moretta grigia",
+        "scientific": "Aythya marila"
+    },
+    "Greater_White_fronted_Goose": {
+        "italian": "Oca lombardella",
+        "scientific": "Anser albifrons"
+    },
+    "Green_winged_Teal": {
+        "italian": "Alzavola americana",
+        "scientific": "Anas carolinensis"
+    },
+    "Gull_billed_Tern": {
+        "italian": "Sterna beccogrosso",
+        "scientific": "Gelochelidon nilotica"
+    },
+    "Harlequin_Duck": {
+        "italian": "Anatra arlecchino",
+        "scientific": "Histrionicus histrionicus"
+    },
+    "Hermit_Thrush": {
+        "italian": "Tordo eremita",
+        "scientific": "Catharus guttatus"
+    },
+    "Herring_Gull": {
+        "italian": "Gabbiano reale americano",
+        "scientific": "Larus argentatus smithsonianus"
+    },
+    "Horned_Grebe": {
+        "italian": "Svasso cornut",
+        "scientific": "Podiceps auritus"
+    },
+    "Horned_Lark": {
+        "italian": "Calandra cornuta",
+        "scientific": "Eremophila alpestris"
+    },
+    "House_Sparrow": {
+        "italian": "Passero domestico",
+        "scientific": "Passer domesticus"
+    },
+    "Iceland_Gull": {
+        "italian": "Gabbiano d\u2019Islanda",
+        "scientific": "Larus glaucoides"
+    },
+    "Lapland_Longspur": {
+        "italian": "Calcabasso lapponico",
+        "scientific": "Calcarius lapponicus"
+    },
+    "Laughing_Gull": {
+        "italian": "Gabbiano ridens",
+        "scientific": "Leucophaeus atricilla"
+    },
+    "Least_Sandpiper": {
+        "italian": "Piro piccolo",
+        "scientific": "Calidris minutilla"
+    },
+    "Lesser_Yellowlegs": {
+        "italian": "Piro pettegola minore",
+        "scientific": "Tringa flavipes"
+    },
+    "Long_billed_Dowitcher": {
+        "italian": "Beccaccino beccolungo",
+        "scientific": "Limnodromus scolopaceus"
+    },
+    "Long_eared_Owl": {
+        "italian": "Gufo di palude",
+        "scientific": "Asio otus"
+    },
+    "Long_tailed_Duck": {
+        "italian": "Moretta codona",
+        "scientific": "Clangula hyemalis"
+    },
+    "Mallard": {
+        "italian": "Germano reale",
+        "scientific": "Anas platyrhynchos"
+    },
+    "Merlin": {
+        "italian": "Smeriglio",
+        "scientific": "Falco columbarius"
+    },
+    "Mew_Gull": {
+        "italian": "Gabbiano mezzano",
+        "scientific": "Larus canus"
+    },
+    "Monk_Parakeet": {
+        "italian": "Parrocchetto monaco",
+        "scientific": "Myiopsitta monachus"
+    },
+    "Mute_Swan": {
+        "italian": "Cigno reale",
+        "scientific": "Cygnus olor"
+    },
+    "Northern_Bobwhite": {
+        "italian": "Colinus della Virginia",
+        "scientific": "Colinus virginianus"
+    },
+    "Northern_Gannet": {
+        "italian": "Sula bassana",
+        "scientific": "Morus bassanus"
+    },
+    "Northern_Goshawk": {
+        "italian": "Astore",
+        "scientific": "Accipiter gentilis"
+    },
+    "Northern_Harrier": {
+        "italian": "Albanella reale",
+        "scientific": "Circus hudsonius"
+    },
+    "Northern_Pintail": {
+        "italian": "Codone",
+        "scientific": "Anas acuta"
+    },
+    "Northern_Shrike": {
+        "italian": "Averla maggiore americana",
+        "scientific": "Lanius borealis"
+    },
+    "Osprey": {
+        "italian": "Falco pescatore",
+        "scientific": "Pandion haliaetus"
+    },
+    "Pacific_Golden_Plover": {
+        "italian": "Piviere dorato del Pacifico",
+        "scientific": "Pluvialis fulva"
+    },
+    "Pectoral_Sandpiper": {
+        "italian": "Piro pettorale",
+        "scientific": "Calidris melanotos"
+    },
+    "Peregrine_Falcon": {
+        "italian": "Falco pellegrino",
+        "scientific": "Falco peregrinus"
+    },
+    "Pine_Grosbeak": {
+        "italian": "Beccogrosso di pini",
+        "scientific": "Pinicola enucleator"
+    },
+    "Purple_Sandpiper": {
+        "italian": "Piovanello viola",
+        "scientific": "Calidris maritima"
+    },
+    "Red_Crossbill": {
+        "italian": "Crociere",
+        "scientific": "Loxia curvirostra"
+    },
+    "Red_Knot": {
+        "italian": "Piovanello maggiore",
+        "scientific": "Calidris canutus"
+    },
+    "Red_Phalarope": {
+        "italian": "Falco pettorale rosso",
+        "scientific": "Phalaropus fulicarius"
+    },
+    "Red_breasted_Merganser": {
+        "italian": "Smergo minore",
+        "scientific": "Mergus serrator"
+    },
+    "Red_eyed_Vireo": {
+        "italian": "Vireo dagli occhi rossi",
+        "scientific": "Vireo olivaceus"
+    },
+    "Red_necked_Grebe": {
+        "italian": "Svasso collorosso",
+        "scientific": "Podiceps grisegena"
+    },
+    "Red_necked_Phalarope": {
+        "italian": "Falco pettorale collorosso",
+        "scientific": "Phalaropus lobatus"
+    },
+    "Red_throated_Loon": {
+        "italian": "Strolaga minore",
+        "scientific": "Gavia stellata"
+    },
+    "Ring_billed_Gull": {
+        "italian": "Gabbiano beccorosso",
+        "scientific": "Larus delawarensis"
+    },
+    "Ring_necked_Duck": {
+        "italian": "Moretta anello",
+        "scientific": "Aythya collaris"
+    },
+    "Ring_necked_Pheasant": {
+        "italian": "Fagiano di monte",
+        "scientific": "Phasianus colchicus"
+    },
+    "Rock_Pigeon": {
+        "italian": "Piccione selvatico",
+        "scientific": "Columba livia"
+    },
+    "Rock_Ptarmigan": {
+        "italian": "Coturnice delle rocce",
+        "scientific": "Lagopus muta"
+    },
+    "Roseate_Tern": {
+        "italian": "Sterna rosata",
+        "scientific": "Sterna dougallii"
+    },
+    "Rough_legged_Hawk": {
+        "italian": "Albanella codabianca",
+        "scientific": "Buteo lagopus"
+    },
+    "Ruddy_Duck": {
+        "italian": "Moretta americana",
+        "scientific": "Oxyura jamaicensis"
+    },
+    "Ruddy_Turnstone": {
+        "italian": "Piro pettobianco",
+        "scientific": "Arenaria interpres"
+    },
+    "Sanderling": {
+        "italian": "Piovanello sabbioso",
+        "scientific": "Calidris alba"
+    },
+    "Sandwich_Tern": {
+        "italian": "Sterna beccolunga",
+        "scientific": "Thalasseus sandvicensis"
+    },
+    "Short_eared_Owl": {
+        "italian": "Allocco delle paludi",
+        "scientific": "Asio flammeus"
+    },
+    "Snow_Bunting": {
+        "italian": "Piviere delle nevi",
+        "scientific": "Plectrophenax nivalis"
+    },
+    "Tundra_Swan": {
+        "italian": "Cigno siberiano",
+        "scientific": "Cygnus columbianus"
+    },
+    "Upland_Sandpiper": {
+        "italian": "Piro pettobianco nordamericano",
+        "scientific": "Bartramia longicauda"
+    },
+    "Whimbrel": {
+        "italian": "Pettegola",
+        "scientific": "Numenius phaeopus"
+    },
+    "White_rumped_Sandpiper": {
+        "italian": "Piro petto bianco",
+        "scientific": "Calidris fuscicollis"
+    },
+    "White_winged_Crossbill": {
+        "italian": "Crociere ali bianche",
+        "scientific": "Loxia leucoptera"
+    },
+    "White_winged_Scoter": {
+        "italian": "Moretta ali bianche",
+        "scientific": "Melanitta fusca"
+    },
+    "Willet": {
+        "italian": "Piro maggiore",
+        "scientific": "Tringa semipalmata"
+    },
+    "Wilsons_Phalarope": {
+        "italian": "Falco di Wilson",
+        "scientific": "Phalaropus tricolor"
+    },
+    "Yellow_billed_Cuckoo": {
+        "italian": "Cuculo beccogiallo",
+        "scientific": "Coccyzus americanus"
+    }
+}
