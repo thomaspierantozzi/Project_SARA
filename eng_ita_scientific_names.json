@@ -12,7 +12,7 @@
         "scientific": "Sterna paradisaea"
     },
     "Bairds_Sandpiper": {
-        "italian": "Piro pettobianco",
+        "italian": "Gambecchio di Baird",
         "scientific": "Calidris bairdii"
     },
     "Barn_Swallow": {
@@ -68,7 +68,7 @@
         "scientific": "Somateria mollissima"
     },
     "Common_Goldeneye": {
-        "italian": "Moretta codona",
+        "italian": "Quattrocchi comune",
         "scientific": "Bucephala clangula"
     },
     "Common_Loon": {
@@ -344,7 +344,7 @@
         "scientific": "Oxyura jamaicensis"
     },
     "Ruddy_Turnstone": {
-        "italian": "Piro pettobianco",
+        "italian": "Voltapietre",
         "scientific": "Arenaria interpres"
     },
     "Sanderling": {
@@ -368,7 +368,7 @@
         "scientific": "Cygnus columbianus"
     },
     "Upland_Sandpiper": {
-        "italian": "Piro pettobianco nordamericano",
+        "italian": "Piro piro codalunga",
         "scientific": "Bartramia longicauda"
     },
     "Whimbrel": {
@@ -376,7 +376,7 @@
         "scientific": "Numenius phaeopus"
     },
     "White_rumped_Sandpiper": {
-        "italian": "Piro petto bianco",
+        "italian": "Gambecchio di Bonaparte",
         "scientific": "Calidris fuscicollis"
     },
     "White_winged_Crossbill": {
@@ -388,7 +388,7 @@
         "scientific": "Melanitta fusca"
     },
     "Willet": {
-        "italian": "Piro maggiore",
+        "italian": "Piro prio semipalmato ",
         "scientific": "Tringa semipalmata"
     },
     "Wilsons_Phalarope": {
