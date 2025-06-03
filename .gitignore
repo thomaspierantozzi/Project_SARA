@@ -1,0 +1,9 @@
+*.jpg
+./note_progetto.md
+./scripts/
+*.pkl
+*.pt
+./demo/
+./SentPictures
+token_github.txt
+*.gif
